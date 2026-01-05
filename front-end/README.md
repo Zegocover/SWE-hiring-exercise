@@ -82,8 +82,8 @@ the trade-offs you made during the development process, and aspects you might ha
 
 # Instructions
 
-1. Create a repo.
+1. Create a private repo using the repo template.
 2. Tackle the test.
-3. Push the code back.
+3. Push the code to _your_ repo. Do not push code to the public zego repository.
 4. Add us (@htmlene, @2014klee, @danyal-zego, @bogdangoie and @cypherlou) as collaborators and tag us to review.
 5. Notify your TA so they can chase the reviewers.
